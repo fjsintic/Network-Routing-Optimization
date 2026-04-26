@@ -22,7 +22,7 @@ are communication links that have associated weights such as distance, latency, 
 - (Cancelled) OpenStreetMap
   
 ## How to Run the Project:
--# Assuming you are in Visual Studio Code, or some other app.
+(Assuming you are in Visual Studio Code, or some other app)
 - Go to /code
 - Download all program files files
 - Run main.cpp
